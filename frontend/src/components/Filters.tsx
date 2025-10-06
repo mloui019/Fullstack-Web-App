@@ -7,8 +7,10 @@ const Filters = () => {
 
             <div>
                 <h3> Category </h3>
-                <label><input type="checkbox" /> Fruits </label><br />
-                <label><input type="checkbox" /> Vegetables </label>
+                <label><input type="checkbox" /> Hair Products </label><br />
+                <label><input type="checkbox" /> Hair Tools </label><br />
+                <label><input type="checkbox" /> Hair Extensions / Wigs </label><br />
+                <label><input type="checkbox" /> Accessories </label>
             </div>
 
             <div>
